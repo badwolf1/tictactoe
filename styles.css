@@ -1,0 +1,24 @@
+#text_choice{
+    text-align: center;
+    font-size: 24px;
+}
+.btn_choice{
+    height: 100px;
+    width: 100px;
+    margin: 100px;
+}
+.winDisplay{
+    text-align: center;
+    font-size: 30px;
+}
+.btn1_choice
+{
+    height: 50px;
+    width: 50px;
+    margin: 50px;
+}
+#score
+{
+    text-align: center;
+    font-size: 30px;
+}
